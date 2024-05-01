@@ -1,0 +1,21 @@
+.image {
+    display: block;
+    width: 230px;
+    height: 140px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ReactModal {
+    width: 400px;
+}
+.card_amny {
+    width: 400px;
+    height: 150px;
+    
+
+}
+
+.image:hover {
+    opacity: 0.8;
+}
